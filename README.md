@@ -21,7 +21,7 @@ BuildShare - A Valheim Mod build with C#
 
 Thanks to everyone who use this mod daily and share / make new construction for the game ! The mod is stable and won't have any update except if a game-breaking change appears.
 </div>
-  ----
+-------------------------
   <div align = "center">
   Crossplay - A <em>certified</em> discord bot builded with Python and SQL
   <img src="http://crdev.xyz/assets/img/crossplay.png" </img>
