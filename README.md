@@ -8,6 +8,27 @@
 
 </div>
 
+### Released project historic :
+
+<div align = "center">
+BuildShare - A Valheim Mod build with C#
+<div flex-direction="horizontal">
+<a href ="https://www.nexusmods.com/valheim/mods/5"><img src ="https://img.shields.io/badge/-Download Page-blueviolet"/></a>
+<a href ="https://www.youtube.com/watch?v=q493o17w2is"><img src ="https://img.shields.io/badge/-Presentation Video-red"/></a>
+<a href="https://www.pcgamesn.com/valheim/mods-best"><img src="https://img.shields.io/badge/-9th Best Valheim Mod (PCGamesN)-brightgreen"></a>
+
+</div>
+
+Thanks to everyone who use this mod daily and share / make new construction for the game ! The mod is stable and won't have any update except if a game-breaking change appears.
+</div>
+  ----
+  <div align = "center">
+  Crossplay - A <em>certified</em> discord bot builded with Python and SQL
+  <img src="http://crdev.xyz/assets/img/crossplay.png" </img>
+  </div>
+  The bot has been stopped in October 2020 after near than one year of online activity ! It's more than 10 000 games played, more than 300 000 users and more than 200 servers ! Sadly, do to this growth, I wasn't able to maintain the developpment of the bot.
+  </div>
+
 ### Known Languages :
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
