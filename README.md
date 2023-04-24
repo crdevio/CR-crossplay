@@ -1,6 +1,6 @@
 <h1 align="center">CRdev</h1>
 <div align="center">
-<a href="http://crdev.xyz/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=my website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="My website"/></a>
+<a href="https://www.cr-dev.io/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=my website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="My website"/></a>
 <a href = "https://replit.com/@CRdev"><img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white" alt="Star Badge"/></a>
 <a href="https://discord.gg/hpab7EvJgy"><img src="https://img.shields.io/discord/809500320111525959.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a><br>
 
